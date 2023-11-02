@@ -20,6 +20,12 @@ export const BoxCard = styled.div`
         color: #fff;
     }
 
+    p{
+        color: #fff;
+        font-size: 20px;
+        font-weight: 400;
+    }
+
     input {
         width: 100%;
         color: #fff;
